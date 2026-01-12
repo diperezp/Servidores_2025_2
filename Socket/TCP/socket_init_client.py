@@ -1,7 +1,7 @@
 import socket
 
 #informacion del servidor
-HOST = "0.0.0.0"
+HOST = "127.0.0.1"
 PUERTO=23000
 
 
